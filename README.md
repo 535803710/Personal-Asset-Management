@@ -4,6 +4,10 @@
 
 基于飞书多维表格（Feishu Base）打造的**全维度个人资产与订阅管理系统**。不仅关注软件订阅续费，更引入了**资产负债管理**与**日均成本（Amortization）**分析思维，帮助你算清每一笔消费的真实价值。
 
+![](https://pub-a953275fa2c34c18b80fc1f84e3ea746.r2.dev/xiaowo/2025/12/633f8a88a973a237b26b933b62d0bc80.png)
+
+![](https://pub-a953275fa2c34c18b80fc1f84e3ea746.r2.dev/xiaowo/2025/12/00f141ad0035dab87b3bbcf22b48c166.png)
+
 ## 📖 项目简介 (Introduction)
 
 本项目是一个可视化的个人财务健康仪表盘。它突破了传统记账软件的流水账模式，采用“资产全生命周期”的管理视角：
@@ -53,8 +57,7 @@
 *   **自动化逻辑**：自动化流程触发到期通知与数据更新。
 
 ## 🚀 快速开始 (Getting Started)
-
-![](./image/show.gif)
+![](https://pub-a953275fa2c34c18b80fc1f84e3ea746.r2.dev/xiaowo/2025/12/d648e2855fc183aedd4c568b1d2eca9b.png)
 
 ### 1. 获取模版
 *  - 下载模版文件（📱个人资产管理脱敏分享版本）
