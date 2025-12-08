@@ -53,7 +53,8 @@
 *   **自动化逻辑**：自动化流程触发到期通知与数据更新。
 
 ## 🚀 快速开始 (Getting Started)
-![](https://pub-a953275fa2c34c18b80fc1f84e3ea746.r2.dev/xiaowo/2025/12/ee098968148b28eeefb3d428d187e298.gif)
+
+![](./image/show.gif)
 
 ### 1. 获取模版
 *  - 下载模版文件（📱个人资产管理脱敏分享版本）
